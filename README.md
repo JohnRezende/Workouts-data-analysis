@@ -9,8 +9,7 @@ Este repositório contém a análise de dados de uma planilha detalhada sobre os
 * **Relacionar dados biométricos com o desempenho:** Analisar como a idade, gênero, peso e BMI se correlacionam com métricas como calorias queimadas e duração da sessão.
 * **Avaliar a eficácia dos treinos:** Comparar a média de calorias queimadas e BPMs (Batimentos por Minuto) para diferentes tipos de treino (`Workout_Type`).
 * **Analisar a frequência de treino e seus efeitos:** Investigar como a frequência semanal e o nível de experiência (`Experience_Level`) influenciam nos resultados, como a porcentagem de gordura corporal.
-* **Identificar padrões de saúde:** Analisar as métricas de BPMs para identificar tendências ou anomalias relacionadas à saúde cardiovascular.
-* **Criar visualizações para instrutores:** Gerar gráficos e *dashboards* que auxiliem no monitoramento do progresso individual dos alunos.
+* **Criar visualizações:** Gerar gráficos e *dashboards* que ajudem a entender os dados mais profundamente.
 
 ---
 
